@@ -1,0 +1,9 @@
+ZMQ
+HDF5
+Gadfly
+RDatasets
+IJulia
+Plots
+Plotly
+LsqFit
+Interact
